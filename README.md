@@ -64,4 +64,4 @@ Copyleft © [Mr.Miss](https://github.com/KeselekPermen69),  All wrongs reserved.
 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jess0032/AutoForward)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kd2929/AutoForward)
