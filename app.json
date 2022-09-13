@@ -7,7 +7,7 @@
     "bot",
     "telegram"
   ],
-  "repository": "https://github.com/Jess0032/MergeBot/",
+  "repository": "https://github.com/kd2929/MergeBot/",
   "success_url": "/welcome",
   "env": {
       "API_ID": {
